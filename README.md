@@ -1,7 +1,7 @@
-- 👋 Hi, I’m a small girl 
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning a crazy thing
-- 💞️ I’m looking to collaborate on something on the internet
+- 👋 Hi, I’m a junior software embedded developer
+- 👀 I’m interested in linux
+- 🌱 I’m currently learning a CI CD other stuffs
+- 💞️ I’m looking to collaborate on software develope on the internet
 - 📫 How to reach me ... okay via my email huynhminhchau.k14@gmail.com
 
 <!---
